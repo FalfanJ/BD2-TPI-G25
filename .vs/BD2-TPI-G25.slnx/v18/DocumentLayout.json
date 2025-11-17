@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmhde\\source\\repos\\BD2-TPI-G25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dmhde\\source\\repos\\BD2-TPI-G25\\Codigo Fuente\\CREATE_DB.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Codigo Fuente\\CREATE_DB.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dmhde\\source\\repos\\BD2-TPI-G25\\Codigo Fuente\\STORE_PROCEDURE.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Codigo Fuente\\STORE_PROCEDURE.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dmhde\\source\\repos\\BD2-TPI-G25\\Codigo Fuente\\INSERCION_DATOS.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Codigo Fuente\\INSERCION_DATOS.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "STORE_PROCEDURE.sql - localhost\\SQLEXPRESS.master (MSI\\dmhde (59))",
+              "DocumentMoniker": "C:\\Users\\dmhde\\source\\repos\\BD2-TPI-G25\\Codigo Fuente\\STORE_PROCEDURE.sql",
+              "RelativeDocumentMoniker": "Codigo Fuente\\STORE_PROCEDURE.sql",
+              "ToolTip": "C:\\Users\\dmhde\\source\\repos\\BD2-TPI-G25\\Codigo Fuente\\STORE_PROCEDURE.sql - localhost\\SQLEXPRESS.master (MSI\\dmhde (59))",
+              "RelativeToolTip": "Codigo Fuente\\STORE_PROCEDURE.sql - localhost\\SQLEXPRESS.master (MSI\\dmhde (59))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-15T20:17:55.275Z",
+              "EditorCaption": " - localhost\\SQLEXPRESS.master (MSI\\dmhde (59))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INSERCION_DATOS.sql - localhost\\SQLEXPRESS.master (MSI\\dmhde (58))",
+              "DocumentMoniker": "C:\\Users\\dmhde\\source\\repos\\BD2-TPI-G25\\Codigo Fuente\\INSERCION_DATOS.sql",
+              "RelativeDocumentMoniker": "Codigo Fuente\\INSERCION_DATOS.sql",
+              "ToolTip": "C:\\Users\\dmhde\\source\\repos\\BD2-TPI-G25\\Codigo Fuente\\INSERCION_DATOS.sql - localhost\\SQLEXPRESS.master (MSI\\dmhde (58))",
+              "RelativeToolTip": "Codigo Fuente\\INSERCION_DATOS.sql - localhost\\SQLEXPRESS.master (MSI\\dmhde (58))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-15T20:17:55.116Z",
+              "EditorCaption": " - localhost\\SQLEXPRESS.master (MSI\\dmhde (58))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CREATE_DB.sql - localhost\\SQLEXPRESS.BD2_TPI_G25 (MSI\\dmhde (56))",
+              "DocumentMoniker": "C:\\Users\\dmhde\\source\\repos\\BD2-TPI-G25\\Codigo Fuente\\CREATE_DB.sql",
+              "RelativeDocumentMoniker": "Codigo Fuente\\CREATE_DB.sql",
+              "ToolTip": "C:\\Users\\dmhde\\source\\repos\\BD2-TPI-G25\\Codigo Fuente\\CREATE_DB.sql - localhost\\SQLEXPRESS.BD2_TPI_G25 (MSI\\dmhde (56))",
+              "RelativeToolTip": "Codigo Fuente\\CREATE_DB.sql - localhost\\SQLEXPRESS.BD2_TPI_G25 (MSI\\dmhde (56))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-15T20:17:54.171Z",
+              "EditorCaption": " - localhost\\SQLEXPRESS.BD2_TPI_G25 (MSI\\dmhde (56))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
